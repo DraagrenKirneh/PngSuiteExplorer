@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "HenrikNergaard 5/20/2018 22:55",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfPngSuiteExplorer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfPngSuiteExplorer",
+	"type" : "normal"
+}

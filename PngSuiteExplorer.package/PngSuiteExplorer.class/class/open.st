@@ -4,5 +4,5 @@ open
 	<example>
 	
 	self new createBrowser 
-		extent: 800@500;
-		openInWindow
+		extent: 330@270;
+		openInWindowLabeled: self name
