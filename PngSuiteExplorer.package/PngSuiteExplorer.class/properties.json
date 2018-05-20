@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "HenrikNergaard 5/20/2018 13:58",
+	"super" : "Object",
+	"category" : "PngSuiteExplorer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"CachedData"
+	],
+	"instvars" : [
+		"infoDict",
+		"morphDict",
+		"description",
+		"item"
+	],
+	"name" : "PngSuiteExplorer",
+	"type" : "normal"
+}

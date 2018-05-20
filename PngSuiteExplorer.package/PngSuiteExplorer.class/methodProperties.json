@@ -1,0 +1,31 @@
+{
+	"instance" : {
+		"createBrowser" : "HenrikNergaard 5/20/2018 13:34",
+		"createItemList" : "HenrikNergaard 5/20/2018 13:52",
+		"createItemView" : "HenrikNergaard 5/20/2018 13:42",
+		"infoAdditionalPalettes" : "HenrikNergaard 5/20/2018 12:03",
+		"infoAncillaryChunks" : "HenrikNergaard 5/20/2018 12:04",
+		"infoBackgroundColors" : "HenrikNergaard 5/20/2018 12:06",
+		"infoBasicFormats" : "HenrikNergaard 5/20/2018 12:15",
+		"infoChunkOrdering" : "HenrikNergaard 5/20/2018 12:04",
+		"infoCorruptedFiles" : "HenrikNergaard 5/20/2018 12:04",
+		"infoGammaValues" : "HenrikNergaard 5/20/2018 12:05",
+		"infoImageFiltering" : "HenrikNergaard 5/20/2018 12:04",
+		"infoInterlacing" : "HenrikNergaard 5/20/2018 12:07",
+		"infoOddSizes" : "HenrikNergaard 5/20/2018 12:07",
+		"infoTransparency" : "HenrikNergaard 5/20/2018 12:05",
+		"infoZlibCompression" : "HenrikNergaard 5/20/2018 12:04",
+		"initialize" : "HenrikNergaard 5/20/2018 13:45",
+		"placeholderItemMorph" : "HenrikNergaard 5/20/2018 13:44",
+		"pngInfo" : "HenrikNergaard 5/20/2018 12:18",
+		"presentItemAt:" : "HenrikNergaard 5/20/2018 13:48",
+		"updateDescription:" : "HenrikNergaard 5/20/2018 13:45",
+		"updateItem:" : "HenrikNergaard 5/20/2018 13:46"
+	},
+	"class" : {
+		"cachedData" : "HenrikNergaard 5/20/2018 12:44",
+		"downloadAndExtract" : "HenrikNergaard 5/20/2018 12:30",
+		"formatMapping:" : "HenrikNergaard 5/20/2018 13:54",
+		"open" : "HenrikNergaard 5/20/2018 13:16"
+	}
+}
