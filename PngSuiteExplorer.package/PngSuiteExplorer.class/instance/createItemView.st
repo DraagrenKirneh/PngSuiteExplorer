@@ -13,6 +13,7 @@ createItemView
 	^ AlignmentMorph newColumn 
 		cellInset: 12; 
 		color: Color transparent;
+		addMorphBack: self createButtonRow;
 		addMorphBack: centering;
 		addMorphBack: description;
 		yourself
