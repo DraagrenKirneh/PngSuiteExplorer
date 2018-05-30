@@ -7,7 +7,7 @@ initialize
 	morphDict := (self class cachedData 
 		associationsSelect: [ :assoc | infoDict includesKey: assoc key ])
 		collect: [ :data |
-		[ (PNGReadWriter formFromStream: (RWBinaryOrTextStream with: data)) asMorph ] 
+		[ self imageMorphFor: data ] 
 			on: Error 
 			do: [ :error | error description asMorph ] 
 	].
